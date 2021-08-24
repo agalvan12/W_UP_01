@@ -57,7 +57,7 @@ It appears that the skill players do more pushups than the line players can.
 favstats(pushups~position,data=mydata)
 ```
 
-On average the line players do 17 pushups and the skill players do 50 pushups.
+On average the line players do 17 pushups and the skill players do 49 pushups.
 
 
 ## Inferential Results
