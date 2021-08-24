@@ -1,7 +1,7 @@
 ---
 title: "W_UP_01"
 author: "April Galvan"
-date: "Fall 2021"
+date: "fall 2021"
 output: html_document
 ---
 
@@ -68,6 +68,7 @@ On average the line players do 17 pushups and the skill players do 50 pushups.
 ```{r}
 t.test(pushups~position,data=mydata)
 ```
+
 
 We see the probability of getting the result we found assuming the null hypothesis is true, 0.00000942. This is so small that we can't justify the null hypothesis; we reject $H_0$
 
